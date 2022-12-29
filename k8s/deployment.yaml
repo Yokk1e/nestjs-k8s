@@ -5,7 +5,7 @@ metadata:
 spec:
   selector:
     matchLabels:
-      app: nestks-k8s
+      app: nestjs-k8s
   replicas: 2
   template:
     metadata:
